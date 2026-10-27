@@ -1,0 +1,12 @@
+{
+  "name": "omnichaindex",
+  "version": "1.0.0",
+  "description": "Advanced Zero-Knowledge Order Book DEX",
+  "main": "core/orderMatchingEngine.js",
+  "scripts": {
+    "start": "node api/liquidityAPI.js",
+    "test": "mocha test/"
+  },
+  "author": "Takahashi Hanzo",
+  "license": "MIT"
+}
